@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: blue;
+    height: 50px;
+}
+.row > *{
+    
+}
+.block{
+    display: inline-block;
+}
+.bg-green{
+    background-color: green;
+    height: 400px;
+}
+h1{
+    text-align: center;
+}
+.bg-border{
+    background-color: aqua;
+    border: 1px solid white;
+    height: 300px;
+}
+
+
+.border-bottom{
+    border-bottom:1px solid black;
+}
+
+.info-footer{
+    background-color: blue;
+}
+.copyright{
+    background-color: black;
+    color: white;
+}
