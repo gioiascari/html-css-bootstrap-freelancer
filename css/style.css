@@ -10,12 +10,12 @@ header{
 .row > *{
     
 }
-.block{
-    display: inline-block;
+i{
+    color: white;
 }
 .bg-green{
-    background-color: green;
-    height: 400px;
+    background-color: #1abc9c;
+ 
 }
 h1{
     text-align: center;
@@ -23,10 +23,15 @@ h1{
 .bg-border{
     background-color: aqua;
     border: 1px solid white;
-    height: 300px;
+
 }
-
-
+.line{
+    height: 5px;
+}
+img{
+    width: 100%;
+    max-width: 200px;
+}
 .border-bottom{
     border-bottom:1px solid black;
 }
