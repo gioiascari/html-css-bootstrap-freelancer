@@ -25,12 +25,15 @@ h1{
     border: 1px solid white;
 
 }
+.avatar{
+    max-width: 200px;
+
+}
 .line{
     height: 5px;
 }
 img{
     width: 100%;
-    max-width: 200px;
 }
 .border-bottom{
     border-bottom:1px solid black;
