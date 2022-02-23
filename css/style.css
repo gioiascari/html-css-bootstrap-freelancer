@@ -40,7 +40,7 @@ img{
 }
 
 .info-footer{
-    background-color: blue;
+    background-color: #3a546d;
 }
 .copyright{
     background-color: black;
@@ -48,4 +48,29 @@ img{
 }
 .btn i:hover{
     color: black;
+}
+.copyright{
+    background-color: #2c3e50;
+}
+.ga-link-secondary{
+    color:#1abc9c;
+    text-decoration: none;
+}
+h1{
+    color: white;
+}
+.black{
+    color: black;
+}
+.ac-text-white{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.ac-text-black{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
 }
