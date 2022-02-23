@@ -46,3 +46,6 @@ img{
     background-color: black;
     color: white;
 }
+.btn i:hover{
+    color: black;
+}
